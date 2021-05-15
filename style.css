@@ -92,6 +92,8 @@ p{
 
 
 
+
+
 }
 
 
@@ -99,5 +101,10 @@ p{
 
     height: 250px;
     width: 250px;
+}
+
+h6{
+
+    margin-left: 10px;
 }
 
