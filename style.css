@@ -1,0 +1,103 @@
+#left_image{
+
+    float: left;
+
+    
+
+
+}
+
+
+p{
+
+    margin-top: 50px;
+    font-size: large;
+
+    padding: 10px;
+
+    
+
+
+
+}
+
+#paragraph{
+
+    margin-top: 50px;
+    font-size: larger;
+
+    padding: 20px;
+
+    
+
+
+
+}
+
+#landing-title{
+
+    padding: 10px;
+
+    color:  rgb(8, 202, 183);
+
+    
+
+}
+
+#title{
+
+   
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-left: 5px;
+
+    color:  rgb(8, 202, 183);
+
+}
+#title-pic{
+
+   
+    font-size: medium;
+
+    color:  rgb(8, 202, 183);
+    padding-left: 40px;
+
+}
+.col-md-7{
+    
+
+    padding: 5px;
+
+    border-spacing: 10px
+
+
+
+
+
+}
+
+.navbar-brand{
+
+    background-color: rgb(8, 202, 183);
+
+    
+    margin-left: 3px;
+
+    
+
+}
+
+.col-md-6{
+
+
+
+
+}
+
+
+.right-image{
+
+    height: 250px;
+    width: 250px;
+}
+
